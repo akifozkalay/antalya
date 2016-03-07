@@ -5,9 +5,9 @@ import constants from './constants';
 import onConfig  from './on_config';
 import onRun     from './on_run';
 
-import 'angular-material'
-import 'angular-route'
-import 'angular-resource'
+import 'angular-material';
+import 'angular-route';
+import 'angular-resource';
 
 import './templates';
 import './filters';
