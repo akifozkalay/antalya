@@ -22,7 +22,7 @@ $ npm install
 
 **Client:**
 ```bash
-$ cd antalya/clien
+$ cd antalya/client
 $ gulp dev
 ```
 
